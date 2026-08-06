@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Minal Shah 👋
 
-<!--
-**MinalShah9/MinalShah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science student | Interested in Product Management, AI/Tech Research & Business Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications
+
+- **Artificial Intelligence and Machine Learning** — Infosys Springboard (Mar 2026)
+  🔗 [Verify via QR](https://validate.onwingspan.com)
+
+- **Getting Started with Generative AI** — IBM SkillsBuild (May 2026)
+  🔗 [Verify on Credly](https://www.credly.com/go/sGG4C4Gm)
+
+- **TCS iON Career Edge – Young Professional** — Tata Consultancy Services (Mar 2026)
+  Cert ID: 272697-30514679-1016
+
+---
+
+## 🏆 Competitions & Achievements
+
+- **QuizOff 2026: India's Biggest AI Quiz** — CampusCrew x Unstop (Jul 2026)
+  Competed among 5,25,000+ students from 48,500+ institutions across 35+ countries.
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: - [Minal Shah](https://www.linkedin.com/in/minal-shah-17a305320)
+- Email: [minalshaha85@gmail.com]
