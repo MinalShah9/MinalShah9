@@ -20,6 +20,7 @@ B.Tech Computer Science student | Interested in Product Management, AI/Tech Rese
 ## 🏆 Competitions & Achievements
 
 - **QuizOff 2026: India's Biggest AI Quiz** — CampusCrew x Unstop (Jul 2026)
+- [View Certificate Here - https://unstop.com/certificate-preview/743dd02c-5fd2-4cc2-8f08-1766152ee991]
   Competed among 5,25,000+ students from 48,500+ institutions across 35+ countries.
 
 ---
