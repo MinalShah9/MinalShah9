@@ -37,11 +37,11 @@ Turning raw data into decisions, I don't just look at data — I ask it question
 
 ## 🏆 Competitions & Achievements
 
-- **QuizOff 2026: India's Biggest AI Quiz** — CampusCrew x Unstop (Jul 2026) [View Certificate](https://unstop.com/certificate-preview/743dd02c-5fd2-4cc2-8f08-1766152ee991)
+ **QuizOff 2026: India's Biggest AI Quiz** — CampusCrew x Unstop (Jul 2026) [View Certificate](https://unstop.com/certificate-preview/743dd02c-5fd2-4cc2-8f08-1766152ee991)
   Competed among 5,25,000+ students from 48,500+ institutions across 35+ countries.
   
-  QuizOff 2026 India's Biggest AI Quiz ! [View](assets/QuizOff%202026%20India's%20Biggest%20AI%20Quiz%20!)
-
+ QuizOff 2026 India's Biggest AI Quiz! [View](assets/QuizOff%202026%20India's%20Biggest%20AI%20Quiz%20%21.png)
+  
  **CampusCrew 100K Milestone Honor** — CampusCrew (Jun 2026)
   Recognized as a valued community member as CampusCrew reached 100,000+ students worldwide.
 
