@@ -6,6 +6,18 @@ Turning raw data into decisions, I don't just look at data — I ask it question
 
 ## 🎓 Certifications
 
+- **Microsoft Excel Beginners To Advance** — Skill Course (Aug 2026) [View Certificate](assets/Microsoft%20Excel%20Beginners%20To%20Advance.png)
+  Cert ID: SC-IP8VUJW0TG
+
+- **30 Days Power BI Micro Course** — SkillCourse (Sep 2026) [View Certificate](assets/PowerBi%20certificate.png)
+  Cert ID: SC-7ISOB6FR6S
+
+- **Business Analytics with Excel (Beginner Course)** — SkillUp by Simplilearn (Aug 2026) [View Certificate](assets/Business%20Analytics%20with%20excel%20certificate.jpg)
+  Cert code: 10666959
+
+- **SQL for Data Analysis** — SkillUp by Simplilearn (Aug 2026) [View Certificate](assets/SQL%20for%20Data%20Analysis.jpg)
+  Cert code: 10666386
+  
 - **Goldman Sachs — Operations Job Simulation** — Forage (Aug 2026) [View Certificate](https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_69bef2ebb9e7af298793c280_1786133043645_completion_certificate.pdf)
   Completed: Foundations of Operations, Facilitating Ultra-High Net Worth Transactions
 
