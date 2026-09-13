@@ -1,6 +1,6 @@
-# Hi, I'm Minal Shah 👋
+## Hi, I'm Minal Shah 👋
 
-B.Tech Computer Science student | Interested in Product Management, AI/Tech Research & Business Analysis
+Turning raw data into decisions, I don't just look at data — I ask it questions until it talks back. 📊 
 
 ---
 
@@ -31,9 +31,4 @@ B.Tech Computer Science student | Interested in Product Management, AI/Tech Rese
 - **CampusCrew 100K Milestone Honor** — CampusCrew (Jun 2026)
   Recognized as a valued community member as CampusCrew reached 100,000+ students worldwide.
 
----
 
-## 📫 Connect with me
-
-- LinkedIn: [Minal Shah](https://www.linkedin.com/in/minal-shah-17a305320)
-- Email: [minalshaha85@gmail.com](mailto:minalshaha85@gmail.com)
