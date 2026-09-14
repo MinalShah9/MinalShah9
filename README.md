@@ -25,7 +25,7 @@ Turning raw data into decisions, I don't just look at data — I ask it question
   Completed: Understanding Product Performance, Planning a Stakeholder Presentation
 
 - **Artificial Intelligence and Machine Learning** — Infosys Springboard (Mar 2026)
-  🔗 [Verify via QR](https://validate.onwingspan.com)
+  🔗 [Verify via QR](https://validate.onwingspan.com) |  [View Certificate](assets/AI%20&%20ML.jpg)
 
 - **Getting Started with Generative AI** — IBM SkillsBuild (May 2026)
   🔗 [Verify on Credly](https://www.credly.com/go/sGG4C4Gm)
