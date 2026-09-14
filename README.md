@@ -30,7 +30,7 @@ Turning raw data into decisions, I don't just look at data — I ask it question
 - **Getting Started with Generative AI** — IBM SkillsBuild (May 2026)
   🔗 [Verify on Credly](https://www.credly.com/go/sGG4C4Gm)
 
-- **TCS iON Career Edge – Young Professional** — Tata Consultancy Services (Mar 2026)
+- **TCS iON Career Edge – Young Professional** — Tata Consultancy Services (Mar 2026) [View Certificate](assets/TCS%20iON%20Career%20Edge.jpg)
   Cert ID: 272697-30514679-1016
 
 ---
@@ -40,7 +40,7 @@ Turning raw data into decisions, I don't just look at data — I ask it question
  **QuizOff 2026: India's Biggest AI Quiz** — CampusCrew x Unstop (Jul 2026) [View Certificate](https://unstop.com/certificate-preview/743dd02c-5fd2-4cc2-8f08-1766152ee991)
   Competed among 5,25,000+ students from 48,500+ institutions across 35+ countries.
   
- QuizOff 2026 India's Biggest AI Quiz! [View](assets/QuizOff%202026%20India's%20Biggest%20AI%20Quiz%20%21.png)
+ QuizOff 2026 India's Biggest AI Quiz! [View Certificate ](assets/QuizOff%202026%20India's%20Biggest%20AI%20Quiz%20%21.png)
   
  **CampusCrew 100K Milestone Honor** — CampusCrew (Jun 2026)
   Recognized as a valued community member as CampusCrew reached 100,000+ students worldwide.
